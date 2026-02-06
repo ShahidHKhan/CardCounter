@@ -1,5 +1,5 @@
 /*
- * tempMain.js
+ * main.js
  * Simple demo: shuffle deck and distribute to players
  */
 
